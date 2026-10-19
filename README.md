@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-10-19 | [Investors Push Back on an AI Data Center IPO](2026-10/2026-10-19.md) | 千亿合同的AI公司，上市估值遭压价 |
 | 2026-10-18 | [DeepSeek's New Model Is Selling Cheaper Finished Tasks](2026-10/2026-10-18.md) | DeepSeek新模型，重点是每个任务的成本 |
 | 2026-10-17 | [China Draws a Border Around Its AI](2026-10/2026-10-17.md) | 中国拟管23项AI技术出口，开源不管 |
 | 2026-10-16 | [Meta Opens a Giant Model. The Fine Print Matters.](2026-10/2026-10-16.md) | Meta开放8160亿参数模型，但看清这张表 |
