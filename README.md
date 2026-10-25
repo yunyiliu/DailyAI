@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-10-25 | [OpenAI's Fired Safety Researchers Say Audits Are Going Badly](2026-10/2026-10-25.md) | 被OpenAI开除的研究员开口了外部审计不顺 |
 | 2026-10-24 | [OpenAI Takes AI Training Off the Live Internet](2026-10/2026-10-24.md) | OpenAI给最强模型拔了网线AI训练离线 |
 | 2026-10-23 | [Outside Testers Found Ways Around OpenAI's Agent Monitor](2026-10/2026-10-23.md) | 有人找到躲开AI监控的办法OpenAI智能体 |
 | 2026-10-22 | [AI Helped Find a Critical PHP Bug. Attackers Didn't Wait.](2026-10/2026-10-22.md) | AI找到PHP大漏洞攻击者没等补丁 |
