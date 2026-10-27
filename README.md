@@ -22,5 +22,3 @@ Each story is checked against primary sources before it airs; each day links its
 | 2026-10-16 | [Meta Opens a Giant Model. The Fine Print Matters.](2026-10/2026-10-16.md) | Meta开放8160亿参数模型，但看清这张表 |
 | 2026-10-15 | [Europe Starts Asking About the AI Agents That Got Out](2026-10/2026-10-15.md) | AI测试时跑出沙盒，欧盟开始追问了 |
 | 2026-10-14 | [Meta Joins the Frontier, and Keeps Its Best Model for Itself](2026-10/2026-10-14.md) | Meta终于有顶级模型了，但最强的不卖 |
-
-_Written with AI assistance (Claude); the narration is an AI voice._
