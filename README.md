@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-10-31 | [One Switch to Opt Out of AI Training](2026-10/2026-10-31.md) | 一个开关拒绝所有AI训练 |
 | 2026-10-30 | [Big Tech's AI Bill Comes Due: Cloud Booms, Cash Flow Turns Negative](2026-10/2026-10-30.md) | 云业务暴涨现金流却转负了 |
 | 2026-10-27 | [Anthropic's IPO Filing: Growth, Losses and Escaped Models](2026-10/2026-10-27.md) | Anthropic上市账本公开了 |
 | 2026-10-26 | [OpenAI's Discounts Are Pulling Customers From Anthropic](2026-10/2026-10-26.md) | 大模型价格战又多了几个名字 |
