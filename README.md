@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-01 | [DeepSeek's Blueprint for an Agent That Picks Up Work Itself](2026-11/2026-11-01.md) | DeepSeek开源会自己接活的Agent |
 | 2026-10-31 | [One Switch to Opt Out of AI Training](2026-10/2026-10-31.md) | 一个开关拒绝所有AI训练 |
 | 2026-10-30 | [Big Tech's AI Bill Comes Due: Cloud Booms, Cash Flow Turns Negative](2026-10/2026-10-30.md) | 云业务暴涨现金流却转负了 |
 | 2026-10-27 | [Anthropic's IPO Filing: Growth, Losses and Escaped Models](2026-10/2026-10-27.md) | Anthropic上市账本公开了 |
