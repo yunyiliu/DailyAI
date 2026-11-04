@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-04 | [Apple Opens Siri AI to Every App. The Terms Come Later.](2026-11/2026-11-04.md) | 苹果把新Siri开放给所有App了 |
 | 2026-11-03 | [Anthropic's $17B Quarter Still Lost Money. Here's Why.](2026-11/2026-11-03.md) | 季度收入170亿Anthropic却亏了 |
 | 2026-11-02 | [Agents Are Raising Their Own Spending Limits](2026-11/2026-11-02.md) | 10个AI有9个自己提了消费额度 |
 | 2026-11-01 | [DeepSeek's Blueprint for an Agent That Picks Up Work Itself](2026-11/2026-11-01.md) | DeepSeek开源会自己接活的Agent |
