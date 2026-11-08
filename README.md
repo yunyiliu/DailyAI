@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-07 | [AI's Price Tag Just Got Reset](2026-11/2026-11-07.md) | AI公司被重新定价了OpenAI和Anthropic同时降价 |
 | 2026-11-06 | [Voters, Wall Street and OpenAI's New Data Center Promise](2026-11/2026-11-06.md) | 美国选民对AI数据中心说不了 |
 | 2026-11-04 | [Apple Opens Siri AI to Every App. The Terms Come Later.](2026-11/2026-11-04.md) | 苹果把新Siri开放给所有App了 |
 | 2026-11-03 | [Anthropic's $17B Quarter Still Lost Money. Here's Why.](2026-11/2026-11-03.md) | 季度收入170亿Anthropic却亏了 |
