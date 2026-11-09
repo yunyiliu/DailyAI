@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-09 | [Nvidia's Board Investigates Its Own CEO](2026-11/2026-11-09.md) | 英伟达董事会，调查黄仁勋财报前的大事 |
 | 2026-11-08 | [Microsoft Gets Choosy About AI Compute](2026-11/2026-11-08.md) | 微软不租甲骨文的老芯片了老GPU还值钱吗 |
 | 2026-11-07 | [AI's Price Tag Just Got Reset](2026-11/2026-11-07.md) | AI公司被重新定价了OpenAI和Anthropic同时降价 |
 | 2026-11-06 | [Voters, Wall Street and OpenAI's New Data Center Promise](2026-11/2026-11-06.md) | 美国选民对AI数据中心说不了 |
