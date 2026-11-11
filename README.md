@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-11 | [Australia's Answer to a Rogue Agent](2026-11/2026-11-11.md) | AI智能体闯进政府网站之后 |
 | 2026-11-10 | [Claude Fable 5.2 and Mythos 5.2: Same Model, Different Rules](2026-11/2026-11-10.md) | Anthropic新模型发了两个名字 |
 | 2026-11-09 | [Nvidia's Board Investigates Its Own CEO](2026-11/2026-11-09.md) | 英伟达董事会，调查黄仁勋财报前的大事 |
 | 2026-11-08 | [Microsoft Gets Choosy About AI Compute](2026-11/2026-11-08.md) | 微软不租甲骨文的老芯片了老GPU还值钱吗 |
