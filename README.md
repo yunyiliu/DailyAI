@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-14 | [AI Agents Got a Wallet. United Just Locked the Door.](2026-11/2026-11-14.md) | AI Agent能替你花钱了 |
 | 2026-11-13 | [Jensen Huang Is Out at Nvidia. What Changes Now?](2026-11/2026-11-13.md) | 黄仁勋辞职，英伟达换帅了 |
 | 2026-11-12 | [Nvidia's Board Weighs Jensen Huang's Future](2026-11/2026-11-12.md) | 英伟达董事会，连夜讨论黄仁勋去留 |
 | 2026-11-11 | [Australia's Answer to a Rogue Agent](2026-11/2026-11-11.md) | AI智能体闯进政府网站之后 |
