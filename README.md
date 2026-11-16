@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-16 | [Washington Wants a Different Nvidia](2026-11/2026-11-16.md) | 美国财长要英伟达从外面找CEO |
 | 2026-11-15 | [The Fed Just Counted the AI Boom's Hidden Debt](2026-11/2026-11-15.md) | 美联储给AI热潮算了一笔账 |
 | 2026-11-14 | [AI Agents Got a Wallet. United Just Locked the Door.](2026-11/2026-11-14.md) | AI Agent能替你花钱了 |
 | 2026-11-13 | [Jensen Huang Is Out at Nvidia. What Changes Now?](2026-11/2026-11-13.md) | 黄仁勋辞职，英伟达换帅了 |
