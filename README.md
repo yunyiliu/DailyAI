@@ -9,6 +9,8 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-22 | [The Chinese Models Inside American Products](2026-11/2026-11-22.md) | 美国国会：中国模型已经用进了美国产品 |
+| 2026-11-21 | [The Riemann Hypothesis, Checked by a Machine](2026-11/2026-11-21.md) | 黎曼猜想有了机器检查过的证明 |
 | 2026-11-20 | [The Fight Over Who Drives Your Desktop](2026-11/2026-11-20.md) | Gemini能替你操作Mac了先看这条警告 |
 | 2026-11-19 | [GPT-6.2 Crosses a Line OpenAI Drew Itself](2026-11/2026-11-19.md) | GPT-6.2OpenAI自己说它会漏报问题 |
 | 2026-11-16 | [Washington Wants a Different Nvidia](2026-11/2026-11-16.md) | 美国财长要英伟达从外面找CEO |
