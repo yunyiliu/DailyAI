@@ -9,6 +9,7 @@ Each story is checked against primary sources before it airs; each day links its
 
 | Date | Episode | 今日头条 |
 |---|---|---|
+| 2026-11-26 | [Three AI Math Claims, No Expert Sign-Off Yet](2026-11/2026-11-26.md) | 三天三个数学大结论还没专家确认 |
 | 2026-11-24 | [Nvidia Takes Jensen Huang Back](2026-11/2026-11-24.md) | 黄仁勋回来了理由是政府的意见 |
 | 2026-11-23 | [OpenAI Proposes a Line No Lab Should Cross](2026-11/2026-11-23.md) | OpenAI 想让各家 AI 公司约定一条线 |
 | 2026-11-22 | [The Chinese Models Inside American Products](2026-11/2026-11-22.md) | 美国国会：中国模型已经用进了美国产品 |
